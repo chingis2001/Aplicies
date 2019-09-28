@@ -1,0 +1,15 @@
+c:\users\ctk1\documents\visual studio 2010\Projects\applicies1\applicies1\bin\Debug\applicies1.dll
+c:\users\ctk1\documents\visual studio 2010\Projects\applicies1\applicies1\bin\Debug\applicies1.pdb
+c:\users\ctk1\documents\visual studio 2010\Projects\applicies1\applicies1\obj\Debug\applicies1.dll
+c:\users\ctk1\documents\visual studio 2010\Projects\applicies1\applicies1\obj\Debug\applicies1.pdb
+D:\ProgramData\Microsoft\VisualStudio\projects\applicies1\applicies1\bin\Debug\applicies1.dll
+D:\ProgramData\Microsoft\VisualStudio\projects\applicies1\applicies1\bin\Debug\applicies1.pdb
+D:\ProgramData\Microsoft\VisualStudio\projects\applicies1\applicies1\obj\Debug\applicies1.csproj.CoreCompileInputs.cache
+D:\ProgramData\Microsoft\VisualStudio\projects\applicies1\applicies1\obj\Debug\applicies1.dll
+D:\ProgramData\Microsoft\VisualStudio\projects\applicies1\applicies1\obj\Debug\applicies1.pdb
+D:\ProgramData\Microsoft\VisualStudio\projects\applicies1\applicies1\bin\Debug\Computer.cs
+D:\ProgramData\Microsoft\VisualStudio\projects\applicies1\applicies1\bin\Debug\DigitalAppliance.cs
+D:\ProgramData\Microsoft\VisualStudio\projects\applicies1\applicies1\bin\Debug\HouseholdAppliance.cs
+D:\ProgramData\Microsoft\VisualStudio\projects\applicies1\applicies1\bin\Debug\Microwave.cs
+D:\ProgramData\Microsoft\VisualStudio\projects\applicies1\applicies1\bin\Debug\Refrigerator.cs
+D:\ProgramData\Microsoft\VisualStudio\projects\applicies1\applicies1\bin\Debug\Appliance.cs

@@ -1,0 +1,17 @@
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\bin\Debug\Appliance3.exe.config
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\bin\Debug\Appliance3.exe
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\bin\Debug\Appliance3.pdb
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\obj\Debug\Appliance3.csprojAssemblyReference.cache
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\obj\Debug\Appliance3.Properties.Resources.resources
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\obj\Debug\Appliance3.csproj.GenerateResource.cache
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\obj\Debug\Appliance3.csproj.CoreCompileInputs.cache
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\obj\Debug\Appliance3.exe
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\obj\Debug\Appliance3.pdb
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\bin\Debug\applicies1.dll
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\bin\Debug\applicies1.pdb
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\obj\Debug\Appliance3.Form1.resources
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\obj\Debug\Appliance3.csproj.CopyComplete
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\bin\Debug\Appliance2.exe
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\bin\Debug\Appliance2.pdb
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\bin\Debug\Appliance2.exe.config
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance3\obj\Debug\Appliance3.Form2.resources

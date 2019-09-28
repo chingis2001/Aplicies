@@ -1,0 +1,10 @@
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance2\bin\Debug\Appliance2.exe.config
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance2\bin\Debug\Appliance2.exe
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance2\bin\Debug\Appliance2.pdb
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance2\bin\Debug\applicies1.dll
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance2\bin\Debug\applicies1.pdb
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance2\obj\Debug\Appliance2.csprojAssemblyReference.cache
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance2\obj\Debug\Appliance2.csproj.CoreCompileInputs.cache
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance2\obj\Debug\Appliance2.csproj.CopyComplete
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance2\obj\Debug\Appliance2.exe
+D:\ProgramData\Microsoft\VisualStudio\projects\Appliance2\obj\Debug\Appliance2.pdb
